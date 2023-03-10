@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+
+    user-select: none;
+}
+
+.font0 {
+    cursor: "pointer";
+    font-size: x-large;
+}
+
+.linkxhx{
+    
+    text-decoration: none;
+}
